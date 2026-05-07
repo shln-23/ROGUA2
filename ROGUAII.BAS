@@ -3,10 +3,10 @@
 15 LVL = 1:
 
 20 Cls: Color 14
-25 Print "***************************************"
-30 Print "*       MICROSOFT BASIC (C) 1981      *"
-40 Print "*              ROGUA II               *"
-50 Print "***************************************"
+25 Print "************************************"
+30 Print "*           SHLN PRESENTS          *"
+40 Print "*             ROGUA II             *"
+50 Print "************************************"
 60 Color 7: Print "REACH THE EXIT (E) TO ADVANCE."
 70 Print: Print "PRESS ANY KEY TO START..."
 80 If InKey$ = "" Then GoTo 80
