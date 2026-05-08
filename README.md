@@ -4,6 +4,7 @@ To compile .BAS file to .exe use QB64
 
 Some screenshots:
 WARNING: screenshots are actual for v2.0!
+
 Start screen
 <img width="1027" height="494" alt="image" src="https://github.com/user-attachments/assets/495310db-3d81-40a4-8375-3718088a150e" />
 
