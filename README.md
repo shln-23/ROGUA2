@@ -3,8 +3,10 @@ ROGUA II GAME
 To compile .BAS file to .exe use QB64
 
 Some screenshots:
-WARNING: screenshots are actual for v1.1!
+WARNING: screenshots are actual for v2.0!
 Start screen
-<img width="1035" height="345" alt="image" src="https://github.com/user-attachments/assets/f22fd414-0c34-4aa0-8edc-3e372edca363" />
+<img width="1027" height="494" alt="image" src="https://github.com/user-attachments/assets/495310db-3d81-40a4-8375-3718088a150e" />
+
 Level 1
-<img width="937" height="769" alt="image" src="https://github.com/user-attachments/assets/9109c63c-f3f4-4918-b4e0-79f91f32b769" />
+<img width="1284" height="749" alt="image" src="https://github.com/user-attachments/assets/8648d65c-fa4a-48f7-9276-416d7b6f3048" />
+
