@@ -1,8 +1,9 @@
 ROGUA II GAME
 
-WARNING: screenshots are actual for v1.1!
+To compile .BAS file to .exe use QB64
 
 Some screenshots:
+WARNING: screenshots are actual for v1.1!
 Start screen
 <img width="1035" height="345" alt="image" src="https://github.com/user-attachments/assets/f22fd414-0c34-4aa0-8edc-3e372edca363" />
 Level 1
